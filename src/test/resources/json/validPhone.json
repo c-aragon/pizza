@@ -1,0 +1,12 @@
+{
+  "carrier": "",
+  "country_code": "MX",
+  "country_name": "Mexico",
+  "country_prefix": "+52",
+  "international_format": "+529515720005",
+  "line_type": "landline",
+  "local_format": "01, 0109515720005",
+  "location": "Oaxaca De Juarez",
+  "number": "529515720005",
+  "valid": true
+}
